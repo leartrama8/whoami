@@ -1,14 +1,9 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Leart Rama
 
-## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+## Biografia ime
+Unë jam Leart Rama jam student i Shkencave Kompjuterike dhe inxhinierisë në UBT,jetoj në qytetin e Mitrovicës
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [
+## Gjërat që më pëlqejnë
+Programimi,Basketbolli.
+
